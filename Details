@@ -1,0 +1,56 @@
+Recap:
+  HTTP - Hyper Text Transfer Protocol( Access To Internet/WWW )
+  IP(Logical of the Device on a Network), MAC(Physical Address irrespective Network)
+  Visting a site backend working
+
+  Status/Response Code: Indication of status of a Request
+    1XX --> Hold on
+    2xx --> Success
+    3xx --> Redirect/No Change
+    4xx --> Client Side Error
+    5xx --> Server Side Error
+
+  BrowserJS (Frontend) vs NodeJs()
+    
+    BrowserJS --> JS engine is sandboxed. window, document utils
+    NodeJs --> Separate Engine for execution of JS. ** No window, document utils **
+
+  JS: 
+    keyword
+    Datatypes -> 
+
+Topics:
+
+  comment single line --> ctrl + /
+  comment multiple line --> Select the lines ctrl + shift + A or ctrl + /
+
+  Iteration of Array  (for, for of , forEach)
+  JSON/JS Object iteration (for in), keys, values
+  JSON - Javascript Object Notation
+
+  Functions & return keyword
+  types of functions
+  Function calling/invoking
+
+  Install Extensions:
+    HTMLCSS Support -> ecmel
+    HTML Snippets -> Mohamed Abusaid
+    Live Server -> Ritwick Dey
+    Vscode Icons -> vscode
+    Rainbow Brackets -> 2gua
+
+  Next Session:
+    Copy By Value & Copy By Reference
+
+    Scope
+    Hoisting( var, function )
+
+    API --> 
+      XMLHttpRequest
+      HTTP Methods
+
+  
+  
+
+  
+
