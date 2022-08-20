@@ -25,8 +25,14 @@ Topics:
   comment multiple line --> Select the lines ctrl + shift + A or ctrl + /
 
   Iteration of Array  (for, for of , forEach)
-  JSON/JS Object iteration (for in), keys, values
+  JS Object iteration (for in), keys, values
+    JS is javascript type used inside js programming
+  
   JSON - Javascript Object Notation
+  
+    JSON file with .json extn
+    it is file representation of javascript object for data representation something like .jpeg, .pdf
+    this is not a programming language
 
   Functions & return keyword
   types of functions
